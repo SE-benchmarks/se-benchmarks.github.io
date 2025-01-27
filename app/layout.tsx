@@ -16,8 +16,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <link rel="stylesheet" href="/code-fix-bench/_next/static/css/app/layout.css" />
+      </head>
       <body className={inter.className}>{children}</body>
     </html>
   )
 }
-
