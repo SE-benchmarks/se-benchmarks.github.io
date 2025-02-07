@@ -84,7 +84,7 @@ export default function Home() {
           <p className="text-xl md:text-2xl text-muted-foreground mb-4">
             CodeFix-Bench: A Large-scale Benchmark for Learning to Localize Code Changes from Issue Reports
           </p>
-          <div className="text-sm text-muted-foreground mb-2">MSR-25</div>
+          <div className="text-sm text-muted-foreground mb-2">In Review (2025)</div>
           <div className="text-sm text-muted-foreground mb-8">Faizan Khan and Azeem Ghumman</div>
           <div className="flex flex-wrap justify-center gap-4 mb-8">
             <Button variant="outline" className="gap-2">
